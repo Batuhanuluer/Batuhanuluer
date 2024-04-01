@@ -3,7 +3,7 @@
 ### Software Developer
 
 
-Skills: Javascript / PostgreSQL / NodeJs / MongoDb / Python / C# / Unity 
+Skills: Javascript/ Typescript / PostgreSQL / NodeJs / MongoDb / Python / C# / Unity 
  
 - 🧑‍💼 I'm currently working on computer vision with Python and C#
 - 🚀 I'm improving my back end skills
