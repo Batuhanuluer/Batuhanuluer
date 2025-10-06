@@ -1,12 +1,10 @@
 ## Hi there 👋, I'm Batuhan
 
-### Software Developer
+### Computer Vision Engineer
 
-
-Skills: Javascript/ Typescript / PostgreSQL / NodeJs / MongoDb / Python / C# / Unity 
+Skills: C++ / Python / C# / CUDA / TensorFlow / PyTorch / Computer Vision / Machine Learning
  
 - 🧑‍💼 I'm currently working on computer vision with Python and C#
-- 🚀 I'm improving my back end skills
 - 📫 How to reach me: batuhanuluer1856@gmail.com 
 
 ### Connect with me:
