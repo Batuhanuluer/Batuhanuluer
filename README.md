@@ -13,3 +13,4 @@ Skills: C++ / Python / C# / CUDA / TensorFlow / PyTorch / Computer Vision / Mach
 
 ![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanuluer&hide=contribs,prs)
 
+![](https://github-readme-stats.vercel.app/api?username=batuhanuluer&show_icons=true)
